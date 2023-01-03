@@ -3,8 +3,8 @@
   padding: 15px;
   box-sizing: border-box;
   font-family: sans-serif;
-  background-color: beige;
-  color: black;
+  background-color: darkcyan;
+  color: beige;
 }
 
 body {
@@ -12,4 +12,8 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+ul > li {
+  font-size: 1rem;
 }
